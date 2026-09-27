@@ -1,6 +1,6 @@
 cask "copystack" do
-  version "1.0.2"
-  sha256 "e3d6e930e9bee5b190b7ccfb91c1782f545637d4695cf17023104eec9f40e6db"
+  version "1.0.3"
+  sha256 "e4e987f919cf92791792652f04e61512ff9ff0a7ca2212f1f2d234493b779787"
 
   url "https://github.com/sharky-3/CopyStack/releases/download/v#{version}/CopyStack.zip"
   name "CopyStack"
